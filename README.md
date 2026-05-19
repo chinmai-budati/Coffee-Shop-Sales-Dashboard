@@ -55,4 +55,5 @@ To provide a 360-degree operational view that enables:
 * **Location Strategy:** Pinpointing high-footfall but low-margin locations helps in refining regional pricing or discount structures.
 
 ### 7. Screenshot:
+
 ![Dashboard Preview](https://github.com/chinmai-budati/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales%20Dashboard.png)
